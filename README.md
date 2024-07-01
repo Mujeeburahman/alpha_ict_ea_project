@@ -176,9 +176,9 @@ All the data, models, views and visualizations used in this document are stored 
 
 **Architecture Center**
 
-For all stakeholders and projects in the company there is an Architecture Center on the company’s intranet. It is a set of webpages that publish and provide the architecture visualizations and architecture documents that everyone should have access to. It is these documents that support decision making of stakeholders and guide the work done in the innovation projects.
+The company’s intranet hosts an Architecture Center for all stakeholders and projects. This online hub provides access to architecture visualizations and documents essential for decision-making and guiding innovation projects.
 
-This document will be managed and updated every year. On the Architecture Center you can find the current and previous versions of this document. NOTE: this document can have classified, so it is not permitted to make (parts of) the contents publicly available or share it with people outside of the company.
+This document will be updated annually, and both current and previous versions are available on the Architecture Center. Note: This document may contain classified information and must not be shared outside the company.
 
 # Chapter 3 Strategy
 
